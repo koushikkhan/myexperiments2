@@ -1,1 +1,1 @@
-Sitemap: /sitemap.xml
+Sitemap: https://github.com/koushikkhan/myexperiments2/sitemap.xml
