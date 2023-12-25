@@ -1,0 +1,16 @@
+---
+title: "My Experimental Space"
+description: "Fasten Your Seat Belt and Jump into the Experimentations"
+from: markdown+emoji
+image: "resources/profile-pic.jpg"
+about:
+  template: trestles
+  image-shape: rounded
+  image-width: 15em
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/koushikkhan
+---
+
+Laborum consectetur reprehenderit fugiat voluptate occaecat. Ad ut exercitation dolore laboris mollit exercitation deserunt aliqua do dolor ipsum minim non occaecat. Minim exercitation deserunt consectetur ex id consequat in aliquip nulla. Consectetur dolor nisi aute deserunt enim incididunt dolore ad sd.
